@@ -1,6 +1,6 @@
 /*
 Ashlyn Buckley
-* 22440672
+* Lab week 8
 * Date:27/2/23
 */
 #include <stdio.h>
