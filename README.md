@@ -1,5 +1,5 @@
 # Word Guessing Game 💭
-This is the code for my word guessing game for CT103: C Programming.
+This is the code for my word guessing game for CT103: C Programming.<br>
 Date built: 27/2/23.
 
 ## Overview
